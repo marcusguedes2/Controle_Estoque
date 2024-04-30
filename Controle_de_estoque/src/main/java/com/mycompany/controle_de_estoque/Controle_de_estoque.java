@@ -2,16 +2,15 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package com.mycompany.mavenproject2;
+package com.mycompany.controle_de_estoque;
 
 /**
  *
  * @author mdrumond
  */
-public class Mavenproject2 {
+public class Controle_de_estoque {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
-         System.out.println("Meu Nome É Marcus!");
     }
 }
